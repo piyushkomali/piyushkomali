@@ -1,4 +1,4 @@
-- Hi, I’m Piyush Komali, a sophomore studying Computer Science at Virginia Tech
+- Hi, I’m Piyush Komali, a junior studying Computer Science at Virginia Tech
 - I’m interested in Software Development
 - I’m currently learning Data Structures / Algorithms
 - I’m looking to collaborate on Coding Projects, Review, Publishing my work
